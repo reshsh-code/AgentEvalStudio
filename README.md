@@ -143,15 +143,4 @@ Open `http://localhost:3000`.
 
 ---
 
-## About
-
-Built by [Your Name] — a product manager with a focus on multi-agent AI systems and agent orchestration.
-
-This project started as a way to build genuine intuition about where LLM pipelines fail — not just read about it. The domain-agnostic architecture came from noticing that the evaluation problem is the same regardless of what the pipeline is generating.
-
-If you are working on agent infrastructure, orchestration platforms, or AI developer tooling — [connect on LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
-*MIT License · Built April 2026*
 
